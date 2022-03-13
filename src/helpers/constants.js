@@ -1,0 +1,1 @@
+export const WEB_API_KEY = 'AIzaSyBE1sd5hBm1zwMljQz08QK180Dl1HQ0uUg'
